@@ -1,0 +1,16 @@
+Copyright 2024 David-Alexandre Yana
+
+Refer to LICENSE.txt, Section  1 for definitions.
+
+The Work licensed under the terms in LICENSE.txt is composed of:
+- the files with a comment indicating that they are licensed
+- the executable files of the Software.
+
+The following are not licensed:
+- icons
+- images
+- the current copyright notice.txt file
+- the LICENSE.txt file
+- any file not clearly marked as licensed
+
+All files are copyrighted, even if not clearly marked as such.
